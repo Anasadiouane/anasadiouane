@@ -64,7 +64,7 @@
 
 - 📧 Email: [anasadiouane5@gmail.com](mailto:anasadiouane5@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/anas-adiouane](https://linkedin.com/in/anas-adiouane)  
-- 🌐 Portfolio: [anasadiouane.github.io](https://anas-adiouane.github.io)
+- 🌐 Portfolio: [anas-adiouane.github.io](https://anas-adiouane.github.io)
 
 ---
 
