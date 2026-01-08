@@ -70,7 +70,7 @@
 
 ## 🌍 Languages & Interests
 
-- 🗣️ Languages: Arabic, French, English, German (B2)  
+- 🗣️ Languages: Arabic, French, English, German (B1)  
 - 🎯 Interests: Football ⚽, Swimming 🏊‍♂️, Guitar 🎸, Traveling ✈️  
 - 💬 Favorite Quote: _“Code is like humor. When you have to explain it, it’s bad.”_
 
