@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Anas</h1>
-<h3 align="center">Fullstack Developer | Java • Spring Boot • Angular</h3>
+<h3 align="center">Backend Developer | Java • Spring Boot </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anasadiouane&label=Profile%20views&color=0e75b6&style=flat" alt="anasadiouane" />
@@ -10,7 +10,7 @@
 ## 🧠 About Me
 
 - 🔭 Preparing to work in **Germany** 🇩🇪  
-- 🌱 Learning **Docker**, cloud technologies, and advanced backend architecture  
+- 🌱 Learning **Cloud** technologies, and advanced backend architecture  
 - 💬 Ask me about **Java**, **Spring Boot**, **Angular**, and **REST APIs**  
 - ⚡ Fun fact: I play guitar 🎸 and love swimming 🏊‍♂️
 
@@ -70,7 +70,7 @@
 
 ## 🌍 Languages & Interests
 
-- 🗣️ Languages: Arabic, French, English, German (B1)  
+- 🗣️ Languages: Arabic, Tamazight, French, English, German (B1)  
 - 🎯 Interests: Football ⚽, Swimming 🏊‍♂️, Guitar 🎸, Traveling ✈️  
 - 💬 Favorite Quote: _“Code is like humor. When you have to explain it, it’s bad.”_
 
